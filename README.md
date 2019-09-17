@@ -5,11 +5,13 @@
 ##### 小組組員:
 * 0624093 郭明眞
 * 0624097 戴琳靜
-######` My first assignment `
-  
+
 ```
 小組組員:
 * 0624093 郭明眞
 * 0624097 戴琳靜
 ```
 
+[高科大](https://www.nkust.edu.tw/index.php)
+
+<https://www.nkust.edu.tw/index.php>
